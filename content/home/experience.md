@@ -36,7 +36,7 @@ experience:
         * Deploying
         
   - title: Professor
-    company: University XX
+    company: University XXX
     company_url: ''
     location: California
     date_start: '2016-01-01'
