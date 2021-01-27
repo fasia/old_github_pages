@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: faezeros.github.io/sitemap.xml
