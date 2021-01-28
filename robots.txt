@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: fasia.github.io/sitemap.xml
