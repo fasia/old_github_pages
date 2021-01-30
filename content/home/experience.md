@@ -41,5 +41,22 @@ experience:
     location: Finland
     date_start: '2019-03-03'
     date_end: '2020-05-02'
-    description: Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work include evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
+    description: Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work includes evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
+    
+  - title: Researcher/PhD Student
+    company: Åbo Akademi University
+    company_url: 'https://www.abo.fi'
+    location: Finland
+    date_start: '2014-01-01'
+    date_end: '2020-04-02'
+    description: My main contribution was research on evaluating the quality of web services by an automatic test generation.
+
+  - title: Research Assistant
+    company: Åbo Akademi University
+    company_url: 'https://www.abo.fi'
+    location: Finland
+    date_start: '2013-04-01'
+    date_end: '2014-12-30'
+    description: Model Based Testing, Verification and model checking.
+   
 ---
