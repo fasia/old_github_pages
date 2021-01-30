@@ -28,12 +28,13 @@ experience:
     location: Espoo, Finland
     date_start: '2020-06-01'
     date_end: ''
-    description:  |2-
+    description: |2-
         Responsibilities include:
         
         * Designing
         * Developing
         * Deploying
+        
         
   - title: Software Test Engineer
     company: GE Healthcare
@@ -43,5 +44,4 @@ experience:
     date_end: '2020-05-02'
     description: 
     Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work include evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
-    
 ---
