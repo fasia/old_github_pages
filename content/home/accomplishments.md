@@ -56,9 +56,9 @@ item:
   title: Research Mobility Grant
   url: ""
 - certificate_url:
-  date_end: ""
-  date_start: "2018-07-01"
-  description: "2015-09-01"
+  date_end: "2018-07-01"
+  date_start: "2015-09-01"
+  description: ""
   organization: Åbo Akademi University 
   organization_url: https://abo.fi
   title: Doctoral Studies Scholarship 
