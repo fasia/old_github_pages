@@ -31,4 +31,36 @@ item:
   organization_url: http://www.icsoft.org/
   title: Best Student Paper Award
   url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2016-06-01"
+  description: Scholarship
+  organization: Anita Borg- Global Organization for Women Technologists
+  organization_url: https://www.anitab.org
+  title: Grace Hopper Celebration of Women in Computing
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2015-05-20"
+  description: ""
+  organization: Ulla Tuominen Foundation
+  organization_url: https://ullatuominen.fi/en/frontpage/
+  title: Research Excellence Award
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2015-05-20"
+  description: ""
+  organization: Harry Elvings Legat 
+  organization_url: https://abo.fi
+  title: Research Mobility Grant
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2018-07-01"
+  description: "2015-09-01"
+  organization: Åbo Akademi University 
+  organization_url: https://abo.fi
+  title: Doctoral Studies Scholarship 
+  url: ""
 ---
