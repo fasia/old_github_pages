@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
  icon_pack: ai
- link: media/faezeh_siavashi_cv_aka_2.pdf
+ link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
