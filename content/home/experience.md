@@ -43,3 +43,4 @@ experience:
     date_end: '2020-05-02'
     description: 
     Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work include evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
+---
