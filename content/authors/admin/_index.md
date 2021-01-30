@@ -14,26 +14,26 @@ organizations:
   url: https://www.abo.fi/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ölkmnhjvdsbcnmbjvhcnmsx vcbjmsdv jk.
+bio: My research interests include Model-Based verification and Testing, Mutation Testing and Web Technologies.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mutation based Testing
+- Web Services and Applications
+- Model-based Software Assessment
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Software Engineering
+    institution: Åbo Akademi University
+    year: 2020
+  - course: MSc in Embedded Computing
+    institution: Åbo Akademi University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Software Engineering
+    institution: Tehran Azad University (North) 
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,23 +45,23 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/FaezehSiavashi
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3LmJakUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fasia
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/faezeh-siavashi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+ icon_pack: ai
+ link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Faezeh Siavashi is a Software Engineer. Her research interest is on evaluating the quality of web services via automatic test generation. Her work includes the following topics:
+– Combining model-based testing and mutation testing for evaluating the robustness and vulnerabilities of web services,
+– Developing test automation frameworks for generating mutants from models,
+– Conducting experiments on model-based test design, test generation and test execution for web services.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/faezeh_siavashi_cv_aka_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
