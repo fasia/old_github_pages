@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2016-06-01"
   description: Scholarship
-  organization: edX
+  organization: Anita Borg: Global Organization for Women Technologists
   organization_url: https://www.anitab.org
   title: Grace Hopper Celebration of Women in Computing
   url: ""
