@@ -23,14 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer/Cofounder
-    company: ''
+    company: '-'
     company_url: ''
     location: Espoo, Finland
     date_start: '2020-06-01'
     date_end: ''
-    description: 
-    Working on advancing urban lifestyle with APIs, Web and online services.
-    |2-
+    description:  |2-
         Responsibilities include:
         
         * Designing
