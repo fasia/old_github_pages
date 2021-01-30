@@ -41,10 +41,27 @@ item:
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2015"
+  date_start: "2015-05-20"
   description: ""
   organization: Ulla Tuominen Foundation
   organization_url: https://ullatuominen.fi/en/frontpage/
   title: Research Excellence Award
   url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2015-05-20"
+  description: ""
+  organization: Harry Elvings Legat 
+  organization_url: https://abo.fi
+  title: Research Mobility Grant
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2018-07-01"
+  description: "2015-09-01"
+  organization: Åbo Akademi University 
+  organization_url: https://abo.fi
+  title: Doctoral Studies Scholarship 
+  url: ""
+  
 ---
