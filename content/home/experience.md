@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer/Cofounder
+    company: ''
     company_url: ''
-    location: California
-    date_start: '2021-01-01'
+    location: Espoo, Finland
+    date_start: '2020-06-01'
     date_end: ''
-    description: |2-
+    description: 
+    Working on advancing urban lifestyle with APIs, Web and online services.
+    |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
+        * Designing
+        * Developing
         * Deploying
         
-  - title: Professor
-    company: University XXX
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
----
+  - title: Software Test Engineer
+    company: GE Healthcare
+    company_url: 'https://www.gehealthcare.com'
+    location: Helsinki, Finland
+    date_start: '2019-03-03'
+    date_end: '2020-05-02'
+    description: 
+    Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work include evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
+
