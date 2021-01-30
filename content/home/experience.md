@@ -55,16 +55,8 @@ experience:
     company: Åbo Akademi University
     company_url: 'https://www.abo.fi'
     location: Finland
-    date_start: '2013-04-01'
+    date_start: '2011-04-01'
     date_end: '2014-12-30'
-    description: Model Based Testing, Verification and model checking.
-    
-  - title: Research Assistant
-    company: Åbo Akademi University
-    company_url: 'https://www.abo.fi'
-    location: Finland
-    date_start: '2011-06-01'
-    date_end: '2012-03-01'
     description: Model Based Testing, Verification and model checking.
     
   - title: IT Engineer/ Program Coordinator
@@ -73,14 +65,7 @@ experience:
     location: Iran
     date_start: '2008-08-01'
     date_end: '2010-04-30'
-    description: Worked as an IT engineer and coordinator for international conferences and leaded a team of 15-20 students for organizing events.
-     
-  - title: IT Engineer
-    company: HeliKhodro, Automaker co.
-    company_url: ''
-    location: Iran
-    date_start: '2007-09-21'
-    date_end: '2007-12-21'
+    description: ''
         
   - title: Assistant Web Developer
     company: Tehran Municipality
@@ -88,7 +73,7 @@ experience:
     location: Iran
     date_start: '2006-05-21'
     date_end: '2006-08-21'
-    description: Worked as a junior software engineer for setting up computer network as well as web development.
+    description: ''
  
   - title: Software Engineer Intern
     company: Iran National Petrochemical
@@ -96,6 +81,5 @@ experience:
     location: Iran
     date_start: '2005-02-21'
     date_end: '2006-07-21'
-    description: Developed in-house tool with Visual Basic and SQL for recording petrolium data.
-    
+    description: ''
 ---
