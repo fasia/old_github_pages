@@ -54,7 +54,7 @@ social:
   link: https://github.com/fasia
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/faezeh-siavashi
+  link: https://www.linkedin.com/in/faezeh-siavashi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
