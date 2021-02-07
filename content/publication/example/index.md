@@ -30,10 +30,10 @@ publication_types: ["1"]
 publication: In *2018 IEEE International Conference on Software Quality, Reliability and Security*
 publication_short: In *QRS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present a model-based mutation testing approach, for evaluating the authentication and authorization of web services in a multi-user context. Model of a web service and its security requirements are designed using UPPAAL Timed Automata. The model is mutated to create invalid behavior which is used for test generation to reveal faults in the system under test. The approach is supported by a model-based mutation testing tool, μUTA, that automatically generates mutants, selects a collection of suitable mutants for testing and generates test cases from them. We modify a previously defined mutation operator and introduce three new operators for additional mutants. We define criteria for the mutation-selection and demonstrate the approach on a blog web service. Results show that the approach can discover authorization faults that were not detected by traditional methods.
 
 # Summary. An optional shortened abstract.
-summary: We present a model-based mutation testing approach, for evaluating the authentication and authorization of web services in a multi-user context. Model of a web service and its security requirements are designed using UPPAAL Timed Automata. The model is mutated to create invalid behavior which is used for test generation to reveal faults in the system under test. The approach is supported by a model-based mutation testing tool, μUTA, that automatically generates mutants, selects a collection of suitable mutants for testing and generates test cases from them. We modify a previously defined mutation operator and introduce three new operators for additional mutants. We define criteria for the mutation-selection and demonstrate the approach on a blog web service. Results show that the approach can discover authorization faults that were not detected by traditional methods.
+summary: ""
 
 tags: [model-based Testing, mutation testing, web services]
 
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
