@@ -2,7 +2,7 @@
 title: Mega Modeling Project
 summary: Scalable model-based framework for continuous development and runtime validation of complex systems
 tags:
-- Model-Based Testing
+- Model-based Testing
 - Runtime Analysis
 date: "2017-04-01"
 
