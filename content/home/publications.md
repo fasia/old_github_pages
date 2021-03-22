@@ -5,13 +5,17 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-
+  
 # Order that this section appears on the page.
 weight: 90
 
 title: Recent Publications
 subtitle: ''
 
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+  
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
