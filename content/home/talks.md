@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: my recent talks
 
 content:
   # Page type to display. E.g. post, event, publication...
