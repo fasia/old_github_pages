@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Mutation Testing
+    tag: Mutation Testing
+  - name: Model-based Testing
+    tag: Model-based Testing
+  - name: REST API
+  - tag: REST API
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
