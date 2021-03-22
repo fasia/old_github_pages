@@ -10,6 +10,8 @@ headless: true
 weight: 40
 
 design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
