@@ -29,7 +29,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
+---
 ---
 title: PAM Project
 summary: Practical Applications of Model-based technologies to continuous integration & testing methodologies
@@ -56,13 +56,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-
-
-
-
-
-
-
-
-
