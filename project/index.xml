@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Academic</title><link>fasia.github.io/project/</link><atom:link href="fasia.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><image><url>/fasia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>fasia.github.io/project/</link></image><item><title>Mega Modeling Project</title><link>fasia.github.io/project/example/</link><pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate><guid>fasia.github.io/project/example/</guid><description>&lt;p>European industry faces stiff competition on the global arena. The electronic systems become more and more complex and call for modern engineering practices to tackle productivity and quality. The model-driven technologies promise significant productivity gains, which have been proven in several studies. However, these technologies need more development to scale for real-life industrial projects and provide advantages in runtime. MegaM@Rt2 brings the model-driven engineering to the next level in order to help European industry to reduce development and maintenance costs as well as to reinforce productivity and quality. The specific scientific and technological objectives include development of:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Academic</title><link>fasia.github.io/project/</link><atom:link href="fasia.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><image><url>/fasia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>fasia.github.io/project/</link></image><item><title>Mega Modeling Project</title><link>fasia.github.io/project/example/</link><pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate><guid>fasia.github.io/project/example/</guid><description>&lt;p>title: PAM Project
+summary: Practical Applications of Model-based technologies to continuous integration &amp;amp; testing methodologies
+tags:&lt;/p>
 &lt;ul>
-&lt;li>scalable methods and tools for modelling of functional and non-functional properties such as performance, consumption, security and safety with mechanisms for representation of results of runtime analysis.&lt;/li>
-&lt;li>scalable methods and tools for application validation at runtime including scalable methods for models@runtime, verification and online testing.&lt;/li>
-&lt;li>infrastructure for efficient handling and management of numerous, heterogeneous and large models potentially covering several functional and non-functional domains.&lt;/li>
-&lt;li>holistic traceability
-&amp;mdash; capable to link and manage models and their elements from different tools&lt;br>
-&amp;mdash; suitable for large distributed cross-functional working teams.&lt;/li>
-&lt;li>specific demonstrators and validate MegaM@Rt technologies through 10 complementary industrial case studies.
-Partners&lt;/li>
-&lt;li>France: SOFTEAM, Thalès, ClearSy, Smartesting, ARMINES, Uni. Pau&lt;/li>
-&lt;li>Spain: ATOS, Schneider Electric, fentISS, Uni. Cantabria, Uni. Oberta de Catalunya / ICREA, IKERLAN&lt;/li>
-&lt;li>Italy: TEKNE, Uni. Aquila, Intecs, Ro Technology&lt;/li>
-&lt;li>Finland: Åbo Akademi Uni, AinaCom, Space Systems Finland, Nokia, VTT, Conformiq&lt;/li>
-&lt;li>Sweden: Mälardalen Uni, SICS, Bombardier, Volvo CE&lt;/li>
-&lt;li>Check Republic: Brno University, Camea&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;li>Model-based Testing&lt;/li>
+&lt;li>Model-checking&lt;/li>
+&lt;li>Environment modeling
+date: &amp;ldquo;2012-01-01&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h1 id="optional-external-url-for-project-replaces-project-detail-page">Optional external URL for project (replaces project detail page).&lt;/h1>
+&lt;p>external_link: &amp;ldquo;&lt;a href="https://megamart2-ecsel.eu/%22">https://megamart2-ecsel.eu/&amp;quot;&lt;/a>&lt;/p>
+&lt;p>image:
+caption: Photo by rawpixel on Unsplash
+focal_point: Smart&lt;/p>
+&lt;p>links:&lt;/p>
+&lt;ul>
+&lt;li>icon: external-link
+icon_pack: fab
+name: Project page
+url: &lt;a href="https://research.abo.fi/en/projects/practical-applications-of-model-based-technologies-to-continuous-">https://research.abo.fi/en/projects/practical-applications-of-model-based-technologies-to-continuous-&lt;/a>
+url_code: &amp;quot;&amp;rdquo;
+url_pdf: &amp;quot;&amp;quot;
+url_slides: &amp;quot;&amp;quot;
+url_video: &amp;quot;&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>
