@@ -8,7 +8,7 @@ tags:
 date: "2012-01-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "hhttps://research.abo.fi/en/projects/practical-applications-of-model-based-technologies-to-continuous-"
+external_link: "https://research.abo.fi/en/projects/practical-applications-of-model-based-technologies-to-continuous-"
 
 image:
   caption: Photo by rawpixel on Unsplash
