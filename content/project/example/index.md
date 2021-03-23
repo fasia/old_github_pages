@@ -4,6 +4,8 @@ summary: Scalable model-based framework for continuous development and runtime v
 tags:
 - Model-based Testing
 - Runtime Analysis
+- Mutation Testing
+- REST API
 date: "2017-04-01"
 
 # Optional external URL for project (replaces project detail page).
