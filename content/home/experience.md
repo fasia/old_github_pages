@@ -27,6 +27,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
+    
 experience:
   - title: Co-founder/ Software Engineer
     company: XYZ
@@ -34,7 +40,7 @@ experience:
     location: Finland
     date_start: '2020-06-01'
     date_end: ''
-    description: Responsibilities include: designing, developing, and deploying REST APIs 
+    description: Responsibilities include designing, developing, and deploying REST APIs 
         
   - title: Software Engineer
     company: GE Healthcare
