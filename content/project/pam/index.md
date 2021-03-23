@@ -3,7 +3,6 @@ title: PAM Project
 summary: Practical Applications of Model-based technologies to continuous integration & testing methodologies
 tags:
 - Model-based Testing
-- Model-checking
 - Environment modeling
 date: "2012-01-01"
 
