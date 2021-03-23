@@ -32,7 +32,7 @@ content:
   - name: Model-based Testing
     tag: Model-based Testing
   - name: REST API
-  - tag: REST API
+    tag: REST API
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
