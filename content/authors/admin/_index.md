@@ -21,6 +21,8 @@ interests:
 - Mutation based Testing
 - Web Services and Applications
 - Model-based Software Assessment
+- REST APIs
+- Entrepreneurship
 
 # Education to show in About widget
 education:
