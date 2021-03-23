@@ -28,6 +28,11 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
+
 experience:
   - title: Co-founder/ Software Engineer
     company: XYZ
@@ -35,12 +40,7 @@ experience:
     location: Finland
     date_start: '2020-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Designing
-        * Developing
-        * Deploying
+    description: Responsibilities include: designing, developing, and deploying REST APIs 
         
   - title: Software Engineer
     company: GE Healthcare
@@ -48,7 +48,7 @@ experience:
     location: Finland
     date_start: '2019-03-03'
     date_end: '2020-05-02'
-    description: Worked as a test designer, developer, and verification engineer on hospital bedside monitors. My work includes evaluating the accuracy and robust behavior of bedside monitors for critical Alarms and invasive blood pressure.
+    description: Worked as a test designer, developer, and verification engineer on hospital bedside monitors.
     
   - title: Researcher/PhD Student
     company: Åbo Akademi University
