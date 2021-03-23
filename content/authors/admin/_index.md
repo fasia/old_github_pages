@@ -70,10 +70,11 @@ email: ""
 highlight_name: false
 ---
 
-Faezeh Siavashi is a Software Engineer. Her research interest is on evaluating the quality of web services via automatic test generation. Her work includes the following topics:
+My research interest is on evaluating the quality of web services via automatic test generation. My work includes the following topics:
 – Combining model-based testing and mutation testing for evaluating the robustness and vulnerabilities of web services,
 – Developing test automation frameworks for generating mutants from models,
 – Conducting experiments on model-based test design, test generation and test execution for web services.
+My minor subject in MSs. was business and entrepreneurship, therefore, I have interest in challenging myslef to develop, organize and run a business enterprise, with all of its uncertainties. Recently, I am exploring this area as well.  
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/faezeh_siavashi_cv_aka_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check my {{< staticref "media/faezeh_siavashi_cv_aka_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
