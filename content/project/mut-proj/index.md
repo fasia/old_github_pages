@@ -2,8 +2,8 @@
 title: µUTA Model-based Mutation Tool
 summary: A supporting tool that serves as part of security and robustness testing toolchain. µUTA extends online model-based testing by Uppaal Tron and generates systematic mutatants. 
 tags:
-- Model-based Mutation Testing
-- Toolbox
+- Mutation Testing
+- Model-based Testing
 - Security vulnerability assessment
 date: "2015-09-01"
 
