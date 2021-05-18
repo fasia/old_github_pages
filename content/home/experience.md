@@ -35,7 +35,7 @@ design:
     
 experience:
   - title: Co-founder/ Software Engineer
-    company: XYZ
+    company: WishDish
     company_url: ''
     location: Finland
     date_start: '2020-06-01'
